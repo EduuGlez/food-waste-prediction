@@ -1,0 +1,10 @@
+{
+    "best_params": {
+        "bagging_temperature": 0.2,
+        "depth": 6,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.02,
+        "min_data_in_leaf": 10
+    },
+    "best_score": 0.3718522384404417
+}
